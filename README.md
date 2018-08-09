@@ -46,12 +46,12 @@ For our integration Dropbox with AEM, we would be requiring the Access Token ( Y
 
 Step2: Adding dependencies related to dropbox. I have used the maven build tool.  Add the following dependency to the project’s pom.xml
 
-<dependency>
-<groupId>com.dropbox.core</groupId>
-<artifactId>dropbox-core-sdk</artifactId>
-<version>1.7.7</version>
-</dependency>
+    <dependency>
+    <groupId>com.dropbox.core</groupId>
+    <artifactId>dropbox-core-sdk</artifactId>
+    <version>1.7.7</version>
+    </dependency>
 
 Step3:
 
-Create the dropbox config page using the template that was created in Step2. You can go to “http://<domain>:<port-no>/miscadmin#/etc/cloudservices” and create the page. The page would be created under the directory in CRXDE:
+Create the dropbox config page using the template . You can go to “http://<domain>:<port-no>/miscadmin#/etc/cloudservices” and create the page. The page would be created under the directory in CRXDE:
