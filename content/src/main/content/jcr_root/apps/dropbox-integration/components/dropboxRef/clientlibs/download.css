@@ -1,0 +1,44 @@
+div.dropboxRef div.item {
+    clear: both;
+    margin: 0 0 8px 0;
+}
+div.dropboxRef span.icon img {
+    width: 16px;
+    height: 16px;
+}
+div.dropboxRef span.icon  {
+    float: left;
+    padding: 0 8px 8px 0;
+    background: url(../../../../../../etc/designs/default/images/icons/default.gif) no-repeat
+}
+div.dropboxRef span.icon.type_doc, div.dropboxRef span.icon.type_docx  {
+    background: url(../../../../../../etc/designs/default/images/icons/doc.gif) no-repeat
+}
+
+div.dropboxRef span.icon.type_eps  {
+    background: url(../../../../../../etc/designs/default/images/icons/eps.gif) no-repeat
+}
+div.dropboxRef span.icon.type_gif  {
+    background: url(../../../../../../etc/designs/default/images/icons/zip.gif) no-repeat
+}
+div.dropboxRef span.icon.type_jpg  {
+    background: url(../../../../../../etc/designs/default/images/icons/jpg.gif) no-repeat
+}
+div.dropboxRef span.icon.type_pdf  {
+    background: url(../../../../../../etc/designs/default/images/icons/pdf.gif) no-repeat
+}
+div.dropboxRef span.icon.type_ppt, div.dropboxRef span.icon.type_pptx  {
+    background: url(../../../../../../etc/designs/default/images/icons/ppt.gif) no-repeat
+}
+div.dropboxRef span.icon.type_tif  {
+    background: url(../../../../../../etc/designs/default/images/icons/tif.gif) no-repeat
+}
+div.dropboxRef span.icon.type_txt  {
+    background: url(../../../../../../etc/designs/default/images/icons/txt.gif) no-repeat
+}
+div.dropboxRef span.icon.type_xls,div.dropboxRef span.icon.type_xlsx  {
+    background: url(../../../../../../etc/designs/default/images/icons/xls.gif) no-repeat
+}
+div.dropboxRef span.icon.type_zip  {
+    background: url(../../../../../../etc/designs/default/images/icons/zip.gif) no-repeat
+}
